@@ -52,6 +52,5 @@ int main (){
     cout << "====================================================\n" << endl;
     cout << "Terima kasih telah menggunakan program ini ^_^" << endl;
  
-    cin.get();
     return 0;
 }
