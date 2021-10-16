@@ -1,2 +1,2 @@
 # Basic-C
-Repository untuk menyimpan data-data belajar Bahasa C++
+Repository to save data learn language C++
